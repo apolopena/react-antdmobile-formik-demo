@@ -1,2 +1,2 @@
-# react-antdmobile-formik-demo
-Created with CodeSandbox
+# FormComponent
+base on antd-mobile and Formik
