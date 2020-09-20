@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-import MyForm from "./myformComponent";
+import MyForm from "./components/forms/examples";
 
 function App() {
   return (
